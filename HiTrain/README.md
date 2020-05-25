@@ -16,7 +16,7 @@ HiTrain has been developed using the following tools/apps:
 * [IntelliJ] - IDE
 * [Python] - Test data generators were developed using Python
 
-And of course HiTrain itself is open source on on GitHub.
+And of course HiTrain itself is open source on GitHub.
 
 ### Installation
 
