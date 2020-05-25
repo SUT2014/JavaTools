@@ -21,4 +21,6 @@ And of course HiTrain itself is open source on on GitHub.
 ### Installation
 
 Use Maven to build HiTrain.  the pom file can be found along with the source.
+You can also test it with a Custom Made JMeter Sampler written using Java.  See JavaTools/JavaSampler
+
 
